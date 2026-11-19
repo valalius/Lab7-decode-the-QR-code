@@ -1,1 +1,1 @@
-# Lab7-decode-the-QR-code
+Захист даних Лабораторна робота 7 Decode the QR-Code
